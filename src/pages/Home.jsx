@@ -41,7 +41,7 @@ function Home() {
         {/* RIGHT: IMAGE */}
         <div className="hero-visual">
           <div className="image-glass">
-            <img src="/src/assets/me.jpeg" alt="Sanjana M" />
+            <img src="/me.jpeg" alt="Sanjana M" />
           </div>
         </div>
 
